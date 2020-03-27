@@ -4,7 +4,7 @@
 
 >1a - Alternative, possibly easier, approach: click `Clone or download` on github, click `Download ZIP`, and unzip the file onto your desktop.
 
-2 - Open up the terminal and navigate to the folder. (Something like `cd ~/Desktop/little-eth-utils/` will be the command for this).
+2 - Open up the terminal and navigate to the folder. (Something like `cd ~/Desktop/bid-on-auctions/` will be the command for this).
 
 3 - Set up a .env file with contents like this:
 
