@@ -19,7 +19,7 @@ export NETWORK="mainnet"
 
 >4a You might have to install some stuff like npm and node before this will work.
 
->2b Get Homebrew (type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` into the command line and press enter). To install node and npm, type `brew update` into the terminal and press enter, then type `brew install node` into the terminal and press enter.  If everything goes well, you'll have all the fundamental tools.
+>4b Get Homebrew (type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` into the command line and press enter). To install node and npm, type `brew update` into the terminal and press enter, then type `brew install node` into the terminal and press enter.  If everything goes well, you'll have all the fundamental tools.
 
 5 - Run `npm install`
 
