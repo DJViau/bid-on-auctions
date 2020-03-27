@@ -1,21 +1,21 @@
 {
-  "name": "erc721-starter-contracts",
+  "name": "sample-bidding-script",
   "version": "1.0.0",
-  "description": "Starter contracts for an ERC721 project.",
+  "description": "A template for bidding on English auctions on OpenSea.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectOpenSea/erc721-starter-contracts.git"
+    "url": "git+https://github.com/DJViau/bid-on-auctions.git"
   },
   "author": "devin.finzer@opensea.io",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProjectOpenSea/erc721-starter-contracts/issues"
+    "url": "https://github.com/DJViau/bid-on-auctions/issues"
   },
-  "homepage": "https://github.com/ProjectOpenSea/erc721-starter-contracts#readme",
+  "homepage": "https://github.com/DJViau/bid-on-auctions#readme",
   "dependencies": {
     "@0x/subproviders": "^2.1.4",
     "opensea-js": "latest",
