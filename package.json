@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DJViau/bid-on-auctions#readme",
   "dependencies": {
-    "@0x/subproviders": "^2.1.4",
+    "@0x/subproviders": "^2.1.11",
     "opensea-js": "latest",
     "web3": "1.0.0-beta.34"
   },
